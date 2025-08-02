@@ -1,10 +1,14 @@
-# Shaanif Ahmed - Portfolio
+# Flizybion Project
 
-## 👨‍💻 About Me
+## 🚀 About Flizybion
 
-Hello! I'm **Shaanif Ahmed**, a passionate developer and technology enthusiast from India. I specialize in web development, AI/ML, and modern software technologies.
+**Flizybion** is a collection of web development projects and learning resources showcasing various technologies and frameworks. This repository contains multiple projects demonstrating different aspects of web development.
 
-## 🚀 Skills & Technologies
+## 👨‍💻 Developer
+
+**Shaanif Ahmed** - A passionate developer and technology enthusiast from India, specializing in web development, AI/ML, and modern software technologies.
+
+## 🛠️ Technologies Used
 
 ### Core Technologies
 - **Frontend Development**: HTML5, CSS3, JavaScript, React.js
@@ -22,7 +26,7 @@ Hello! I'm **Shaanif Ahmed**, a passionate developer and technology enthusiast f
 ## 📁 Project Structure
 
 ```
-portfolio/
+flizybion/
 ├── projects/
 │   ├── vocabulary-study-exercise/
 │   └── wordpress-elementor-website/
