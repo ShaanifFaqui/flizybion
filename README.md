@@ -1,4 +1,4 @@
-# Flizybion - Web Development Projects Collection
+# Flizybion - Web Development Projects Collection ( pending )
 
 ## 🚀 About Flizybion
 
