@@ -1,0 +1,190 @@
+{
+  "XP": {
+    "xp": {
+      "docsId": "976dab0f-24ea-40fe-a600-39cf876fd7d9",
+      "totalXp": 0,
+      "currentLevel": 1,
+      "currentLevelLow": 0,
+      "currentLevelHigh": 1799,
+      "currentLevelPointsEarned": 0,
+      "nextLevel": 2,
+      "pointsUntilNextLevel": 1800,
+      "achievementCategories": {
+        "Unknown": 0,
+        "Modules": 0,
+        "Courses": 0,
+        "Qna": 0,
+        "Challenges": 0,
+        "Events": 0,
+        "LearningPaths": 0,
+        "Plans": 0,
+        "Special": 0
+      }
+    },
+    "achievements": []
+  },
+  "NextSteps": null,
+  "Attachments": true,
+  "Certifications": null,
+  "Progress": null,
+  "SkillAssessment": null,
+  "Assessments": null,
+  "TechProfile": {
+    "email": "shaaniffakki@gmail.com",
+    "locale": "en-us",
+    "country": "IN",
+    "contactPointTopicSetting": "OptInExplicit",
+    "isInstructor": false,
+    "isChallengeAdmin": false,
+    "isQnaModerator": false,
+    "source": "learn",
+    "authenticationModes": [
+      {
+        "id": "0003BFFE82BCEE63",
+        "type": "MSA",
+        "tenantId": "9188040d-6c67-4c5b-b112-36a304b66dad",
+        "upn": "shaaniffakki@gmail.com",
+        "oid": "00000000-0000-0000-fc7b-9efc9179850c",
+        "dateAcceptedPrivacyNotice": "2024-08-03T08:19:44.2820873+00:00",
+        "dateAdded": "2024-08-03T08:19:44.2820873+00:00"
+      }
+    ],
+    "interests": {
+      "roles": [],
+      "levels": [
+        "beginner"
+      ],
+      "products": [
+        "power-platform",
+        "windows",
+        "dotnet"
+      ],
+      "expandedRoles": [],
+      "expandedProducts": [
+        {
+          "product": "power-platform",
+          "productLevel": "beginner",
+          "subProducts": []
+        },
+        {
+          "product": "windows",
+          "productLevel": "beginner",
+          "subProducts": []
+        },
+        {
+          "product": "dotnet",
+          "productLevel": "beginner",
+          "subProducts": []
+        }
+      ],
+      "expandedSubjects": [
+        {
+          "subject": "infrastructure",
+          "subjectLevel": "beginner",
+          "subSubjects": [
+            "it-management-monitoring",
+            "networking",
+            "serverless-computing"
+          ]
+        },
+        {
+          "subject": "app-development",
+          "subjectLevel": "beginner",
+          "subSubjects": [
+            "devops",
+            "blockchain",
+            "frontend-development",
+            "backend-development",
+            "game-development"
+          ]
+        },
+        {
+          "subject": "artificial-intelligence",
+          "subjectLevel": "beginner",
+          "subSubjects": [
+            "machine-learning",
+            "chatbots",
+            "classification-analysis",
+            "natural-language-processing"
+          ]
+        }
+      ],
+      "contentTypes": [
+        "self-paced",
+        "instructor-led"
+      ]
+    },
+    "transcriptSettings": {
+      "publicLink": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      },
+      "print": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "certificationSettings": {
+      "print": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "qnaEmailPreferences": {
+      "allEmail": true,
+      "autoFollowAsked": true,
+      "autoFollowAnswered": true,
+      "autoFollowCommented": true,
+      "autoFollowTagged": true,
+      "emailEventSettings": {
+        "newMention": "instant",
+        "newModeration": "instant",
+        "answerPosted": "daily",
+        "answerAccepted": "daily",
+        "commentPosted": "daily",
+        "newPrivateMessage": "instant",
+        "questionUpdated": "daily",
+        "questionPosted": "daily",
+        "unansweredQuestions": "daily",
+        "newFollower": "daily",
+        "answerUpdated": "daily"
+      }
+    },
+    "sharingId": "66E040A01CDD6F96",
+    "legalName": {
+      "first": "Shaanif",
+      "middle": "",
+      "last": "Ahmed"
+    },
+    "userId": "976dab0f-24ea-40fe-a600-39cf876fd7d9",
+    "userName": "Shaanifahmed-7123",
+    "displayName": "Shaanif ahmed",
+    "isPrivate": false,
+    "affiliations": [],
+    "followerCount": 0,
+    "followingCount": 0,
+    "answersAccepted": 0,
+    "reputationPoints": 0,
+    "createdOn": "8/3/2024 8:19:44 AM"
+  },
+  "Lists": null,
+  "Q&A": {
+    "docsId": "976dab0f-24ea-40fe-a600-39cf876fd7d9",
+    "questions": [],
+    "answers": [],
+    "comments": []
+  },
+  "VerifiableCredentials": {
+    "docsId": "976dab0f-24ea-40fe-a600-39cf876fd7d9",
+    "userCredentials": []
+  },
+  "LearnAssessment": {
+    "docsId": "976dab0f-24ea-40fe-a600-39cf876fd7d9",
+    "sessions": []
+  }
+}
